@@ -6,7 +6,7 @@ This project compares the four Russian-language Telegram channels I read (NEXTA 
 
 - **Report:** [`report/CS156_Pipeline1_News_Diet.pdf`](report/CS156_Pipeline1_News_Diet.pdf) (LaTeX source in `report/`)
 - **Code and outputs:** [`news_diet_pipeline.ipynb`](news_diet_pipeline.ipynb)
-- **Interactive dashboard:** [[link to be added](https://news-diet-dashboard.vercel.app/)]
+- **Interactive dashboard:** [link to the Vercel Demo(https://news-diet-dashboard.vercel.app/)]
 
 ## Contents
 
